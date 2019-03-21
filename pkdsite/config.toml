@@ -1,0 +1,50 @@
+baseURL = "https://http://pkdu.westus.cloudapp.azure.com/"
+languageCode = "en-us"
+title = "P K Dasgupta"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Prasanta Kumar"
+    lastName = "Dasgupta"
+    address = "Hyderabad, India"
+    phone = "+91-9916600073"
+    contactNote = "Senior DevOps Engineer"
+    profileImage = "img/pkd.jpeg"
+    email = "connect2pkd@gmail.com"
+    description = "Proven DevOps Engineer with 6+ yrs experience leveraging Cloud Infrastruture design, Build Automation using CI/CD, Monitoring and Alerting, LiveSite troubleshooting to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = false
+    showPublications = false 
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/pkdasgupta/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/pkdasgupta/"
+
+[[params.handles]]
+    name = "Bitbucket"
+    link = "https://bitbucket.org/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/"
+    icon = "stack-overflow"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/"
+    icon = "keybase"
+
+[params.google.analytics]
+    trackerID = ""

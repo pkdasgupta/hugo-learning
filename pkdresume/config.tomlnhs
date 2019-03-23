@@ -1,0 +1,34 @@
+baseURL = "https://servicerestart.com/"
+languageCode = "en-us"
+title = "Nadeem Hussain Shaikh"
+theme = "resume"
+
+[params]
+    firstName = "Nadeem"
+    lastName = "Shaikh"
+    address = "Hyderabad, India"
+    phone = "+91-9001727998"
+    contactNote = "DevOps Engineer"
+    profileImage = "img/TechChat.png"
+    email = "nadeemhshaikh@gmail.com"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/nadeem-hussain-47536970/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/nadeemhussain"
+

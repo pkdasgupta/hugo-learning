@@ -1,0 +1,25 @@
+[
+    {
+        "grouping":"Architecture",
+        "skills":[ "Large Scale Production Engineering","Cloud Infra and Automation","IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+    },
+    {
+        "grouping":"Languages, Operating Systems & Tools",
+        "skills":[ "Python","Ruby", "PowerShell","git","Jenkins","Unix","Windows","bash","php"]
+    },
+    {
+        "grouping":"Platform Development & Administration",
+        "skills":[ "Ruby on Rails","NGINX","MySQL","Wordpress"]
+    },
+    {
+      "grouping":"Containers & Cloud",
+        "skills":[
+            {"name":"Azure","link":"https://azure.microsoft.com/en-in/"},
+            {"name":"Docker","link":"https://docker.com"},
+            {"name":"AWS","link":"https://aws.amazon.com"},
+            {"name":"Google Cloud","link":"https://cloud.google.com"},
+            {"name":"Linux","link":"https://bosh.io"}
+        ]
+    }
+]
+  

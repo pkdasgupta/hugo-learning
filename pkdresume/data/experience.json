@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Systems Engineer",
+        "company":"Tata Consultancy Services (TCS), Bangalore",
+        "summary":"Worked as an Unix/C++/Java DevOps Engineer for Duetsche Bank Client",
+        "range":"Oct 2012 - Nov 2013"
+    },
+    {
+        "role":"Site Reliability Engineer(SRE)",
+        "company":"Yahoo! SDC, Bangalore",
+        "summary":"Worked as an SRE for Yahoo Ads & Data Platform",
+        "range":"Dec 2013 - June 2015"
+    },
+    {
+        "role":"Technical Lead",
+        "company":"Samsung R&D, Bangalore",
+        "summary":"Worked as a Technical Lead(DevOps) on Samsung Pay B2B",
+        "range":"June 2015 - May 2017"
+    },
+    {
+        "role":"Senior DevOps Engineer",
+        "company":"Microsoft IDC, Hyderabad",
+        "summary":"Working as a DevOps Engineer on Microsoft Dyanamics365 F&O",
+        "range":"May 2017 - present"
+    }
+]

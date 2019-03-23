@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "PKDResume"
 date: 2018-02-10T18:56:13-05:00
 sitemap:
   priority : 1.0
@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.</p>
+<p>Proven DevOps Engineer with 6+ yrs extensive experience leveraging Cloud Infrastruture design, Build Automation using CI/CD, Monitoring and Alerting, LiveSite troubleshooting to manage large scale distributed platforms both on prem and in varied public clouds.</p>

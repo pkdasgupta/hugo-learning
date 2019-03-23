@@ -2,6 +2,11 @@
 	path = pkdsite/themes/hugo-resume
 	url  = https://github.com/eddiewebb/hugo-resume.git 
 
+[submodule "pkdresume/themes/resume"]
+	path = pkdresume/themes/resume
+	url  = https://github.com/eddiewebb/hugo-resume.git 
+
 [submodule "victor-hugo"]
 	path = victor-hugo
 	url  = https://github.com/netlify-templates/victor-hugo.git 
+

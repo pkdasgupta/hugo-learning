@@ -2,3 +2,6 @@
 	path = pkdresume/themes/resume
 	url  = https://github.com/eddiewebb/hugo-resume.git 
 
+[submodule "turbocrats/themes/hugo-myportfolio-theme"]
+	path = turbocrats/themes/hugo-myportfolio-theme
+	url  = https://github.com/2-REC/hugo-myportfolio-theme.git 
